@@ -1,4 +1,4 @@
-# Minha Calculadora
+# My Calculator
 
 A simple calculator built with Python and Streamlit, with operation history.
 
